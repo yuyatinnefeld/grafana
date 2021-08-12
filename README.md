@@ -62,9 +62,8 @@ ${WHISPER_ROOT}/email_sending/emails/sent.wsp
 ## 2. Docker Grafana Setup (Data Visualization)
 [More info ](https://github.com/yuyatinnefeld/grafana/tree/master/docker-setup)
 
-
 ## 3. Local Grafana Setup (Data Visualization)
 [More info ](https://github.com/yuyatinnefeld/grafana/tree/master/grafana-setup)
 
 ## 4. Docker Grafana + Graphite Setup
-[More info ](https://github.com/yuyatinnefeld/grafana/tree/master/grafana_graphite-setup)
+[More info ](https://github.com/yuyatinnefeld/grafana/tree/master/grafana_graphite)
