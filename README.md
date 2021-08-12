@@ -57,15 +57,14 @@ ${WHISPER_ROOT}/email_sending/emails/sent.wsp
 
 
 ## 1. Statsd Setup (Statsd data generating)
-[More info ](https://github.com/yuyatinnefeld/docker/tree/master/grafana/statsd-setup)
-
+[More info ](https://github.com/yuyatinnefeld/grafana/tree/master/statsd-setup)
 
 ## 2. Docker Grafana Setup (Data Visualization)
-[More info ](https://github.com/yuyatinnefeld/docker/tree/master/grafana/docker-setup)
+[More info ](https://github.com/yuyatinnefeld/grafana/tree/master/docker-setup)
 
 
 ## 3. Local Grafana Setup (Data Visualization)
-[More info ](https://github.com/yuyatinnefeld/docker/tree/master/grafana/grafana-setup)
+[More info ](https://github.com/yuyatinnefeld/grafana/tree/master/grafana-setup)
 
 ## 4. Docker Grafana + Graphite Setup
-[More info ](https://github.com/yuyatinnefeld/docker/tree/master/grafana/grafana_graphite-setup)
+[More info ](https://github.com/yuyatinnefeld/grafana/tree/master/grafana_graphite-setup)
